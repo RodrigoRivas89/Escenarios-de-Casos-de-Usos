@@ -1,4 +1,4 @@
-# Escenarios de Casos de Usos
+# Escenarios de Casos de Uso
 Casos de uso 1 - [Registrar paciente](https://github.com/user-attachments/files/19743695/Escenarios.de.casos.de.uso.1.xlsx)
 
 casos de uso 2 - [Asignar turno al paciente](https://github.com/user-attachments/files/19743709/Escenarios.de.casos.de.uso.2.xlsx)
